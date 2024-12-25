@@ -13,6 +13,9 @@ Components:
 a) Hosted on EC2 instances behind an Elastic Load Balancer (ELB).
 
 b) Serves static content and routes dynamic requests to the application tier.
+![2 (1)](https://github.com/user-attachments/assets/c20cfd22-8d20-4521-bfc1-f2ea24e3ad10)
+
+
 
 4.Application Tier:
 
